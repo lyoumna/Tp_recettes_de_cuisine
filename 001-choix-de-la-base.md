@@ -1,7 +1,5 @@
 # ADR 0001 : choix de la base de données
 
-Date : 10 novembre 2026
-
 ## Contexte
 
 Notre site permet à des utilisateurs de publier des recettes, de les classer par catégorie, de les noter et de les mettre en favori. Les règles de gestion RG1 à RG11 sont décrites dans `CONCEPTION.md`. Elles sont fixées : la base choisie doit toutes les respecter. La question est de savoir où chaque règle est garantie, par la base elle-même ou par l'application.
